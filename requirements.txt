@@ -1,0 +1,8 @@
+graphviz
+jupyter
+jupyterlab
+networkit
+networkx
+torch
+torch-geometric
+torch-cluster
