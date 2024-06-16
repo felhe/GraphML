@@ -6,3 +6,7 @@ networkx
 torch
 torch-geometric
 torch-cluster
+tabulate
+tqdm
+ogb
+pandas
